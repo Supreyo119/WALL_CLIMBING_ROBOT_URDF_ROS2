@@ -28,5 +28,4 @@ How to Run
 bash
 colcon build
 source install/setup.bash
-ros2 launch <package_name> <launch_file>.launch.py
 ```
